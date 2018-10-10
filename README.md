@@ -31,7 +31,7 @@ Wapco is a simple web based desktop application for [Codeforces](https://codefor
 - [Python 3](https://www.python.org/downloads/).
 - Check if Python 3 is successfully installed by
 ```
-python3 --version
+python --version
 ```
 - Then run the following command in command prompt to install some dependencies needed
 ```
